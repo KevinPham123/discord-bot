@@ -1,0 +1,16 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Simple Discord bot starter",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "discord.js": "^14.16.1",
+    "dotenv": "^16.4.5"
+  }
+}
