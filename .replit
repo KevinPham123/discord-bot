@@ -1,5 +1,0 @@
-run = "npm start"
-entrypoint = "index.js"
-
-[nix]
-channel = "stable"
